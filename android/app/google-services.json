@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1005210459380",
+    "project_id": "midjotest2",
+    "storage_bucket": "midjotest2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1005210459380:android:4cbba58fb9597185b252a1",
+        "android_client_info": {
+          "package_name": "com.example.midjo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCa-AJI66PGdT5ktTJugZnDJdySrgvlWkM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
